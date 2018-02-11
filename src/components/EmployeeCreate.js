@@ -6,7 +6,6 @@ import { Card, CardSection, Input, Button } from './common';
 
 class EmployeeCreate extends Component {
  
-
   onButtonPress() {
     const { name, phone, shift } = this.props;
 
