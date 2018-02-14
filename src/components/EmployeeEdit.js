@@ -18,7 +18,6 @@ class EmployeeEdit extends Component {
     console.log(name, phone, shift);
   }
 
-
   render() {
     return (
       <Card>
