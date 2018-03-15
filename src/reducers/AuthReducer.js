@@ -30,6 +30,5 @@ export default (state = INITIAL_STATE, action) => {
       return { ...state, error: 'Authentication Failed.', loading: false };
     default:
       return state;
-
   }
 };
