@@ -18,7 +18,7 @@ class EmployeeCreate extends Component {
         <CardSection>
           <Button onPress={this.onButtonPress.bind(this)}>
             Create
-            </Button>
+          </Button>
         </CardSection>
       </Card>
     );
